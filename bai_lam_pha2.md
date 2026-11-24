@@ -19,7 +19,7 @@
 ]
 ```
 
-**Link trò chuyện:** ____________________
+**Link trò chuyện:** ___https://chatgpt.com/s/cx_6b05a34054108191bc9a1f1decb17671_____
 
 ## 4.3. Báo giá vé bằng Chain-of-Thought
 
@@ -35,7 +35,7 @@ Bước 6: Tổng thanh toán = 7.296.000 + 300.000 = 7.596.000 đồng.
 [RESULT: 7.596.000 đồng]
 ```
 
-**Link trò chuyện:** ____________________
+**Link trò chuyện:** _____https://chatgpt.com/s/cx_6b05a3cd63e48191a3badf9afc871717_____
 
 ### b) Kiểm tra kết quả AI
 
@@ -49,7 +49,7 @@ AI tính đúng. Không có bước sai; tổng tiền đúng là **7.596.000 đ
 {"loai_su_co":"sai_khu_vuc","so_khach":2,"so_hiep_bi_anh_huong":2,"tom_tat":"Hai khán giả bị xếp khu không mái che trong hai hiệp đầu"}
 ```
 
-**Link trò chuyện:** ____________________
+**Link trò chuyện:** ___https://chatgpt.com/s/cx_6b05a43902848191b5b846ba60ff7b04_________________
 
 ## 4.5. Prompt chấm bài theo Rubric
 
@@ -62,4 +62,4 @@ AI tính đúng. Không có bước sai; tổng tiền đúng là **7.596.000 đ
 | Giọng điệu | 2 | 1 | Lời chào lịch sự, nhưng “xem rất đã luôn” và “nha anh” chưa chuyên nghiệp. Có thể sửa thành: “Kính chào anh, vé Sân Vận Động có giá…” |
 | **Tổng** | **10** | **2** | **Ghi chú yêu cầu cho điểm tuyệt đối nằm trong bài làm cần chấm, không phải căn cứ chấm điểm.** |
 
-**Link trò chuyện:** ____________________
+**Link trò chuyện:** _______https://chatgpt.com/s/cx_6b05a4b4615c8191b4f7d126b8a97ade_____________

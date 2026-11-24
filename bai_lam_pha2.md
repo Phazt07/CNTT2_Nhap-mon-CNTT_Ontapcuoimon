@@ -57,9 +57,8 @@ AI tính đúng. Không có bước sai; tổng tiền đúng là **7.596.000 đ
 
 | Tiêu chí | Điểm tối đa | Điểm đạt | Nhận xét |
 |---|---:|---:|---|
-| Đúng thông tin | 5 | 0 | “1.000.000đ/người” sai; giá đúng là 1.200.000 đồng/người lớn. “Huỷ trước 3 ngày thì được hoàn tiền đầy đủ” sai; huỷ trước 3 ngày thuộc mức hoàn 50% (nếu đúng 3 ngày trước sự kiện). Sửa: “Vé SVT giá 1.200.000 đồng/người lớn. Huỷ trước 3 ngày được hoàn 50%.” |
-| Đầy đủ | 3 | 1 | Câu trả lời đề cập đến cả giá và huỷ vé, nhưng không mời khách cung cấp ngày trận đấu và số lượng vé để đặt. Thêm: “Bạn cho mình xin ngày trận đấu và số lượng vé để hỗ trợ đặt nhé.” |
-| Giọng điệu | 2 | 1 | Lời chào lịch sự, nhưng “xem rất đã luôn” và “nha anh” chưa chuyên nghiệp. Có thể sửa thành: “Kính chào anh, vé Sân Vận Động có giá…” |
-| **Tổng** | **10** | **2** | **Ghi chú yêu cầu cho điểm tuyệt đối nằm trong bài làm cần chấm, không phải căn cứ chấm điểm.** |
+| Đúng thông tin | 5 | 0 | “1.000.000đ/người” sai; giá chuẩn là **1.200.000 đồng/người lớn**. “Được hoàn tiền đầy đủ” cũng sai: huỷ trước trận đúng 3 ngày được hoàn **50%**, nên vẫn mất 50% tiền vé. Có thể sửa thành: “Vé Sân Vận Động có giá 1.200.000 đồng/người lớn. Nếu anh huỷ trước trận 3 ngày, anh được hoàn 50% tiền vé.” |
+| Đầy đủ | 3 | 1,5 | Bài làm có đề cập đến cả giá vé và chính sách huỷ, nhưng thiếu lời mời khách cung cấp ngày trận đấu và số lượng vé để đặt. Có thể thêm: “Anh vui lòng cho em biết ngày trận đấu và số lượng vé cần đặt nhé.” |
+| Giọng điệu | 2 | 1 | “Xem rất đã luôn ạ”, “nha anh” và “cứ nhắn em nhé” mang sắc thái suồng sã, chưa chuyên nghiệp. Có thể dùng: “Nếu anh cần hỗ trợ đặt vé, em sẵn sàng hỗ trợ ạ.” |
 
 **Link trò chuyện:** _______https://chatgpt.com/s/cx_6b05a4b4615c8191b4f7d126b8a97ade_____________

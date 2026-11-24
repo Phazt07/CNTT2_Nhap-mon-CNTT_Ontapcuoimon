@@ -1,7 +1,7 @@
 # BÀI LÀM PHA 1
 
-- **Họ tên:** ____________________
-- **Lớp:** ____________________
+- **Họ tên:** __Lã Đức Phát__
+- **Lớp:** __CNTT2__
 - **Link repository Pha1:** ____________________
 
 > Pha 1 (70 phút đầu). Nội dung dưới đây được hoàn thiện theo đề và dữ liệu đính kèm.
